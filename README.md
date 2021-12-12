@@ -5,7 +5,10 @@
 
 ## Type of Problem → Multi Class Classification
 
-## Approach → Deep Learning - 3 Layered Feed Forward Neural Network
+## Algorithms
+1. Logistic Regression 
+2. Random Forest Classifier
+3. Deep Learning - 3 Layered Feed Forward Neural Network
 
 ### Resources used
 
@@ -30,4 +33,3 @@ So, how do we start ? You should take your time planning this out before you sta
 7. Optimise the Parameters
 8. Summarise → Very Important Step that most people forget
 
-That's basically what I did during this problem.
