@@ -1,17 +1,14 @@
 # MNIST-Image-Classification
 ## Task - Handwritten Digit Classification
 
-## No. Of Classes → 10
-
-## Type of Problem → Multi Class Classification
-
-## Algorithms
+## Algorithms Used
 1. Logistic Regression 
 2. Random Forest Classifier
 3. Deep Learning - 3 Layered Feed Forward Neural Network
 
 ### Resources used
 
+- sklearn
 - pyTorch documentation
 - [Jovian.ai](http://Jovian.ai) - ml course
 - kaggle notebooks
